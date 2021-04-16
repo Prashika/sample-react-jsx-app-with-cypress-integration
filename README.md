@@ -1,4 +1,4 @@
-# Steps to run application, run tests and check code-coverage report:
+## Steps to run application, run tests and check code-coverage report
 
 1. yarn install (To install all node modules)
 2. yarn start (To run application)
