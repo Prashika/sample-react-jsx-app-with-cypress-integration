@@ -1,3 +1,6 @@
+# Sample react application with jsx
+- ## Focused on react application with jsx using default webpack-config and cypress code-coverage configuration with one sample test case.
+
 # Implementation:
 
 ## Getting Started with Create React App
@@ -22,11 +25,10 @@ You will also see any lint errors in the console.
 
 ## Steps to run application, run tests and check code-coverage report
 
-1. yarn install (To install all node modules)
-2. yarn start (To run application)
-3. To run test:
-    yarn run cypress open (Cypress test runner window will be opened. There select spec.js file to run tests.)
-4. Check Coverage Report in Project Directory:
+1. ### `yarn install` (To install all node modules)
+2. ### `yarn start` (To run application)
+3. ### `yarn run cypress open` To run test: (Cypress test runner window will be opened. There select spec.js file to run tests.)
+4. ### Check Coverage Report in Project Directory:
     coverage/lcov-report/index.html
     
  # Reference:
