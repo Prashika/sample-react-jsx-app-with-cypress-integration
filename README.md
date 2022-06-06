@@ -1,4 +1,4 @@
-# Sample react application with jsx
+# Sample react application with jsx using default webpack-config
 - ## Focused on react application with jsx using default webpack-config and cypress code-coverage configuration with one sample test case.
 
 # Implementation:
